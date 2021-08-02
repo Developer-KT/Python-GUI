@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import Canvas, Frame, filedialog, Text
-import os
+import os 
 
 root = tk.Tk()
 apps = []
